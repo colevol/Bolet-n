@@ -2,4 +2,4 @@
 
 En este espacio encontrará disponible para descarga y libre divulgación los siguientes boletines: 
 
-* [Boletín 2019](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)  <img src="https://github.com/colevol/Boletin/blob/main/portadas/BoletinCOLEVOL_2019_1_Portada.png" height="100" width="60">
+* [Boletín 2019](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)  <img src="https://github.com/colevol/Boletin/blob/main/portadas/BoletinCOLEVOL_2019_1_Portada.png" height="200" width="120">

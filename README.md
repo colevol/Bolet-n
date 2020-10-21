@@ -4,4 +4,4 @@ En este espacio encontrará disponible para descarga y libre divulgación los si
 
 * [Boletín 2019](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf) 
 
-![boletin 2019](https://github.com/colevol/Boletin/blob/main/portadas/BoletinCOLEVOL_2019_1_Portada.png =100x20)
+<img src="https://github.com/colevol/Boletin/blob/main/portadas/BoletinCOLEVOL_2019_1_Portada.png" height="24" width="48">

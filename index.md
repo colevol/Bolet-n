@@ -1,4 +1,4 @@
-# **Boletín de la asociación colombiana de biología evolutiva COLEVOL**
+# **Boletines disponibles para descarga:**
 
 * ## [Boletín 2019](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)  [<img align="center" src="https://raw.githubusercontent.com/colevol/boletin/main/portadas/portada2019.png" height="200" width="120">](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)
 

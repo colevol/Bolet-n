@@ -2,6 +2,10 @@
 
 En este repositorio encontrará disponible para descarga y libre divulgación todos los volumenes del boletín de la asociación colombiana de biología evolutiva: 
 
+* ## [Boletín 2021](https://raw.githubusercontent.com/colevol/boletin/main/boletines/boletin_21.pdf)  [<img align="center" src="https://raw.githubusercontent.com/colevol/boletin/main/portadas/portada_2021.jpg" height="200" width="120">](https://raw.githubusercontent.com/colevol/boletin/main/boletines/boletin_21.pdf)
+
+* ## [Boletín 2020](https://github.com/colevol/boletin/raw/main/boletines/boletin_2020_2.pdf)  [<img align="center" src="https://raw.githubusercontent.com/colevol/boletin/main/portadas/boletin_portada.png" height="200" width="120">](https://github.com/colevol/boletin/raw/main/boletines/boletin_2020_2.pdf)
+
 * ## [Boletín 2019](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)  [<img align="center" src="https://raw.githubusercontent.com/colevol/boletin/main/portadas/portada2019.png" height="200" width="120">](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2019_1.pdf)
 
 * ## [Boletín 2018](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2018_1_compressed.pdf)  [<img align="center" src="https://raw.githubusercontent.com/colevol/boletin/main/portadas/Portada2018_1.png" height="200" width="120">](https://github.com/colevol/Boletin/blob/main/boletines/BoletinCOLEVOL_2018_1_compressed.pdf)
